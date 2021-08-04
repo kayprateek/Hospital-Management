@@ -50,6 +50,5 @@ Manage and search hospital patient records using queue and stack data structures
 
 # Structures Used
 
-Linked List & Queues
 Linked list is used to store patient records.
 Queue is used as a token system to visit the General Physician.
