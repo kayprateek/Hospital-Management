@@ -7,9 +7,9 @@ Manage and search hospital patient records using queue and stack data structures
 
 2)	Update Patient Records: One can update patient record using patient number and bill status.
 
-3)	Search Patient Records: Search and display patient records on the basis of -> 
+3)	Search Patient Records: Search and display patient records on the basis of :
 
-·	Patient number
+	Patient number
 ·	Name
 ·	Date of admission
 ·	Mobile Number
