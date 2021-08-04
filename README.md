@@ -1,5 +1,5 @@
 # Hospital-Management
-Manage and search hospital patient records using queue and stack data structures in C language
+Manage and search hospital patient records using queue and linked list data structures in C language
 
 # Features 
 
